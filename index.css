@@ -1,0 +1,10 @@
+h1, h2 {
+    color: navy;
+    margin-left: 20px;
+}
+
+td.gridCell {
+    height: 30px;
+    width: 30px;
+    border: 2px solid green;
+}
